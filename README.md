@@ -133,7 +133,7 @@ faceProject/
 | `data_manager.py` | CSV operations for students and attendance |
 | `face_recognition_module.py` | Face training, recognition, blink detection |
 | `qr_module.py` | QR code generation and validation |
-| `face_encodings.pkl` | Binary file storing trained face data (120KB for 3 students) |
+| `face_encodings.pkl` | Binary file storing trained face data |
 
 ---
 
@@ -149,7 +149,7 @@ faceProject/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/face-recognition-attendance.git
+git clone https://github.com/Ganesh1027/face-recognition-attendance.git
 cd face-recognition-attendance
 ```
 
@@ -224,7 +224,7 @@ Open your browser and navigate to: **http://127.0.0.1:5000**
    - Gender
    - Email
    - Phone
-   - Branch (e.g., CSE, ECE, CAI)
+   - Branch (e.g.,CAI,CSM,CSD,CSD,CSC,AID)
 4. Click **"Add Student"**
 
 #### 3. Train Face
