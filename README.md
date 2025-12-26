@@ -514,28 +514,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
----
-
-## 🙏 Acknowledgments
-
-- OpenCV community for computer vision tools
-- Flask framework for web development
-- Contributors and testers
-
----
-
-## 📞 Support
-
-For issues and questions:
-- **GitHub Issues**: [Create an issue](https://github.com/YOUR_USERNAME/face-recognition-attendance/issues)
-- **Email**: your.email@example.com
-
----
-
 ## 🔮 Future Enhancements
 
 - [ ] Mobile app integration
